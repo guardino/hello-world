@@ -1,4 +1,3 @@
 # hello-world
-Traditional Hello World project
-Here is a another line of text
-And another
+Traditional Hello World project.
+Here is some more text. And some more.
