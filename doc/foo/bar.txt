@@ -1,1 +1,2 @@
 Some file with text
+A new line!
